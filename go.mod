@@ -60,8 +60,8 @@ require (
 	github.com/xorm-io/core v0.7.4
 	github.com/xorm-io/xorm v1.1.6
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/crypto v0.21.0
-	golang.org/x/net v0.23.0
+	golang.org/x/crypto v0.29.0
+	golang.org/x/net v0.31.0
 	golang.org/x/oauth2 v0.17.0
 	google.golang.org/api v0.150.0
 	gopkg.in/ini.v1 v1.67.0 // indirect
